@@ -1,4 +1,4 @@
-package com.guidewire.live.formServiceWebapp;
+package com.guidewire.live.exampleServiceWebapp;
 
 public interface ServiceWebappConstants {
 

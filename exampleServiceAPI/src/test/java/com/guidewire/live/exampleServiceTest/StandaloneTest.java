@@ -1,4 +1,4 @@
-package com.guidewire.live.formServiceTest;
+package com.guidewire.live.exampleServiceTest;
 
 import com.guidewire.live.corelib.client.ClientConfig;
 import com.guidewire.live.corelib.client.retry.NoRetryPolicy;

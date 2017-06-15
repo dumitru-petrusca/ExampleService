@@ -1,4 +1,4 @@
-package com.guidewire.live.formServiceImpl;
+package com.guidewire.live.exampleServiceImpl;
 
 
 import com.guidewire.live.exampleService.generated.model.Request;
